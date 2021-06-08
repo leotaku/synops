@@ -1,0 +1,5 @@
+BasedOnStyle: LLVM
+AlignEscapedNewlines: Left
+AllowAllArgumentsOnNextLine: false
+ExperimentalAutoDetectBinPacking: true
+ColumnLimit: 90
