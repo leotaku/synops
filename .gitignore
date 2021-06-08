@@ -1,0 +1,6 @@
+# Clang Tools
+/.cache
+/compile_flags.txt
+# Meson Build
+/build
+/subprojects
